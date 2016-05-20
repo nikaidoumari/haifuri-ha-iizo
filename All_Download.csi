@@ -1,0 +1,1 @@
+Enumerable.Range(1, 32).ToList().ForEach(i => new System.Net.WebClient().DownloadFile("http://www.hai-furi.com/assets/img/common/face/img_" + i + ".png", "img_" + i + ".png"));
