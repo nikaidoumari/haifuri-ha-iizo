@@ -6,6 +6,9 @@ ANIPREX のサイトからはいふりのデフォルメキャラの画像ダウ
   
 ### 適当にディレクトリを作る。
 % mkdir haifuri  
-### ダウンロードしてきたコードを実行。  
-% sh All_Download.sh  
+### ダウンロードしてきたコードを実行。 
+####　UNIX/Lunix
+% sh All_Download.sh
+#### Windows(Git_Bash)
+%sh All_Download_Git_Bash.sh
 ### 適切な画像ソフトでひらいてもふもふする。  
